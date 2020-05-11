@@ -217,7 +217,7 @@ Table of Contents
 
 [File I/O](http://gribblelab.org/CBootcamp/10_Input_and_Output.html)
 
-[C Programming Boot Camp](http://gribblelab.org/CBootcamp/)
+[C Programming Boot Camp](http://gribblelab.org/CBootCamp/)
 
 [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/)
 
